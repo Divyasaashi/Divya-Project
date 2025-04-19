@@ -7,6 +7,9 @@
   <version>1.0-SNAPSHOT</version>
   <name>Divya-Project Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <sonar.host.url>http://3.110.172.189:9000/</sonar.host.url>
+    <sonar.login>45fc7310c4de457c5224e349ad765e34d751979d</sonar.login>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
